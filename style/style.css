@@ -428,7 +428,7 @@ header ul li a:hover {
     gap: 40px 60px;
 }
 .field-certificate {
-    width: 27%;
+    width: 50%;
     height: 250px;
     position: relative;
 }
